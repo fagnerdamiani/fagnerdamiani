@@ -15,6 +15,6 @@ I'm Counting On You To Navigate This Sea of Adventures!
 Contact
 
 📫 Instagram: @fagnerdamiani
-📫 Instagram: fagnerdamiani@gmail.com
+📫 email: fagnerdamiani@gmail.com
 
 See you later !
