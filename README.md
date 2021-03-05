@@ -1,16 +1,20 @@
-### Hi there 👋
+Hi Folks, I Fagner
 
-<!--
-**fagnerdamiani/fagnerdamiani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😄 Now I'm a Technology Adventurer! 😄
 
-Here are some ideas to get you started:
+About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Extremely in love with One Piece! ⚡
+
+💬 - I worked as a user support for my entire career, because I didn't believe in my potential, 
+people diminished me by having a diploma and working as a support and for years, 
+I didn't realize it but it was myself who allowed it, but now finally at 31, 
+I changed my reality, today I’m a programmer and I’m going to change the world. 
+I'm Counting On You To Navigate This Sea of Adventures!
+
+Contact
+
+📫 Instagram: @fagnerdamiani
+📫 Instagram: fagnerdamiani@gmail.com
+
+See you later !
