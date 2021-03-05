@@ -10,7 +10,7 @@ I'm Counting On You To Navigate This Sea of Adventures!</h3>
 
 
 <p align="center">
-<a href="https://twitter.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="fagnerleandro" height="20" width="20" /></a>
+<a href="https://twitter.com/fagnerdamiani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="fagnerleandro" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/fagner-leandro-pereira-damiani-0154838" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fagnerleandro" height="20" width="20" /></a>
 <a href="https://www.facebook.com/fagner.damiani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="fagnerleandro" height="20" width="20" /></a>
 <a href="https://www.instagram.com/fagnerleandro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="fagnerleandro" height="20" width="20" /></a>
